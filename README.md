@@ -69,6 +69,23 @@ Alfred 的功能也是十分的强大。
 
 简易入门指南：https://sspai.com/post/36442
 
+## 代码 diff 工具
+
+| 名称                                               | 简介                  |
+| -------------------------------------------------- | --------------------- |
+| [Beyond Compare](https://www.scootersoftware.com/) | 能够对比目录/文件结构 |
+
+### Beyond Compare
+
+![Beyond_Compare_01](assets/Beyond_Compare_01.png)
+![Beyond_Compare_02](assets/Beyond_Compare_02.png)
+
+很强大的一款对比工具软件，能够进行目录树/文本对比，还能够进行 Merge 操作。windows/macOs/Linux 平台都支持。
+
+而且在对比文本方面也支持得比较多，比如是否忽略空格，还支持编辑。
+
+不过比较美中不足的问题可能是界面比较不美观吧。（还有价格比较贵）
+
 ## 截图 / 贴图 / 简易绘图
 
 | 名称                                                    | 简介               |
