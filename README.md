@@ -114,11 +114,14 @@ Alfred 的功能也是十分的强大。
 | Code Spell Checker        | 英语拼写检查                   |
 | Git Blame                 | 查看当前行的上个改动者         |
 | Git History               | 查看 Git 历史                  |
+| Live Server               | 创建一个简单 web server        |
 | Markdown All in One       | 集 Markdown 大成               |
 | Prettier - Code formatter | 格式化代码                     |
+| Project Manager           | 自定义项目管理快捷打开方式     |
 | Sort lines                | 选中几行进行排序               |
 | Swagger Viewer            | 在编辑器中预览 Swagger         |
 | filesize                  | 在底部状态栏显示当前文件的大小 |
+| vscode-mindmap            | vscode 中编辑 xmind            |
 
 ## Chrome 插件
 
