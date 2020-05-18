@@ -112,6 +112,7 @@ Alfred 的功能也是十分的强大。
 | 名称                      | 简介                           |
 | ------------------------- | ------------------------------ |
 | Code Spell Checker        | 英语拼写检查                   |
+| Draw.io Integration       | draw io                        |
 | Git Blame                 | 查看当前行的上个改动者         |
 | Git History               | 查看 Git 历史                  |
 | Live Server               | 创建一个简单 web server        |
@@ -138,17 +139,19 @@ Alfred 的功能也是十分的强大。
 
 ## 在线工具
 
-| 名称                                                             | 简介                                       |
-| ---------------------------------------------------------------- | ------------------------------------------ |
-| [Draw io](https://www.draw.io)                                   | 开源在线图表软件，可绘制 流程图 / ER 图 等 |
-| [Process On](https://www.processon.com)                          |                                            |
-| [Bundle optimize helper](https://webpack.jakoblind.no/optimize/) | webpack bundle 分析器                      |
+| 名称                                                             | 简介                                                                 |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Draw io](https://www.draw.io)                                   | 开源在线图表软件，可绘制 流程图 / ER 图 等（有桌面版和 vscode 插件） |
+| [Process On](https://www.processon.com)                          |                                                                      |
+| [Bundle optimize helper](https://webpack.jakoblind.no/optimize/) | webpack bundle 分析器                                                |
 
 ### Draw io
 
 ![Draw_io_01](assets/Draw_io_01.png)
 
 开源软件，超级够用的了，因为可以导入导出各种格式的，思维导图、流程图等。
+
+但是使用 web 版，想要保存到本地还是不大方便。这里可以使用 桌面版 或者 vscode 插件
 
 ## 字体库
 
