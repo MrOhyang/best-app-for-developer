@@ -32,8 +32,15 @@ source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 | 名称                    | 简介       |
 | ----------------------- | ---------- |
 | [brew](https://brew.sh) | 包管理工具 |
+| tldr | 命令行使用的简介手册 |
 | fzf                     |            |
 | thefuck                 |            |
+
+### tldr
+
+![tldr_01](assets/tldr_01.png)
+
+相对于 `man` 之类的，会直接举例一些近似于实际的示例，更容易理解。一般情况这个工具可用于入门，然后再使用 `man` 熟悉更多的参数配置，进而达到更熟悉命令的目的。
 
 ## 程序切换 / 定制 / 自动化
 
